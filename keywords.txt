@@ -1,0 +1,52 @@
+#######################################
+# Syntax Coloring Map For LedDigits 4
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+thNumber	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setBitmap	KEYWORD2
+setDigit	KEYWORD2
+setNum2	KEYWORD2
+setNum3	KEYWORD2
+setNum4	KEYWORD2
+showDot	KEYWORD2
+hideDot	KEYWORD2
+update	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SEG7_A	LITERAL1
+SEG7_B	LITERAL1
+SEG7_C	LITERAL1
+SEG7_D	LITERAL1
+SEG7_E	LITERAL1
+SEG7_F	LITERAL1
+SEG7_G	LITERAL1
+SEG7_DP	LITERAL1
+SEG7_NONE	LITERAL1
+SEG7_ALL	LITERAL1
+
+FONT7_0	LITERAL1
+FONT7_1	LITERAL1
+FONT7_2	LITERAL1
+FONT7_3	LITERAL1
+FONT7_4	LITERAL1
+FONT7_5	LITERAL1
+FONT7_6	LITERAL1
+FONT7_7	LITERAL1
+FONT7_8	LITERAL1
+FONT7_9	LITERAL1
+
+AUTO_UPDATE	LITERAL1
+MANUAL_UPDATE	LITERAL1
